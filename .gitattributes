@@ -1,1 +1,2 @@
 jdk_1.8.0_121_x86-64.apk filter=lfs diff=lfs merge=lfs -text
+wildfly_10.1.0_x86-64.apk filter=lfs diff=lfs merge=lfs -text
