@@ -39,8 +39,7 @@ With your git repositories;
 
     git config http.sslVerify false
 
-and then use the http link, not the ssh link as asustor does not have ssh users!
-
-(working on ssh stuff, so maybe in future)
+To use SSH, create a user account, then login with that user and in their profile upload the public key (or
+put it in the /ssh folder IN the shared folder on volume1)
 
 
